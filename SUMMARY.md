@@ -23,8 +23,6 @@
 - [Finding Work](docs/work/find-work/README.md)
   - [resume / CV](docs/work/find-work/resume.md)
 
-
-
 ## Thoughts
 - [Comics and Games](docs/thoughts/comics/README.md)
   - [Anime](docs/thoughts/comics/animes.md)
