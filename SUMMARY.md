@@ -17,7 +17,7 @@
 - [Finding Work](docs/work/find-work/README.md)
   - [resume / CV](docs/work/find-work/resume.md)
 
-##docs/ Projects
+## docs/ Projects
 
 - [Crypto Mining](docs/projects/crypto-mining.md)
 - [Games](docs/projects/game/README.md)
