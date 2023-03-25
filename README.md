@@ -6,8 +6,6 @@ A knowledge field guide
 
 ## Interesting
 - [Nikita Voloboev](https://wiki.nikiv.dev/)
-- 
 
 ## Links
 - [What's your 2nd brain?](https://www.indiehackers.com/post/whats-your-2nd-brain-92dfd1402a)
-- 
